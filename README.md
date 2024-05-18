@@ -1,6 +1,5 @@
 
-# Library Management System
-
+# LibManageX
 This is a simple Library Management System implemented in C. It allows you to manage books, members, and book loans in a library. You can add, remove, and display books and members, as well as lend and return books.
 
 ## Features
